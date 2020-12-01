@@ -1,4 +1,8 @@
-# React Building Custom Development Envoirnment
+# React Building Custom Development Environment
+
+## The Plan
+
+Create Development environment from scratch using
 
 1. Node
 2. Webpack
@@ -6,7 +10,7 @@
 4. ESLint
 5. NPM Scripts
 
-#### Here What we building.
+#### Here is what we are building.
 
 - Compile JSX
 - Transpile JS
